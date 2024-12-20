@@ -1,0 +1,9 @@
+<map id="NHSCustomerKiosk.Page2.Connect" name="NHSCustomerKiosk.Page2.Connect">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,80,240,107"/>
+<area shape="rect" id="Node000002" href="$class_n_h_s_customer_kiosk_1_1_page2.html#ad39aef1c435e27fdf186bde074d52b43" title="Button click handler for loading the spanish form for Critters adoption." alt="" coords="288,5,534,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="183,77,300,49,302,55,184,82"/>
+<area shape="rect" id="Node000003" href="$class_n_h_s_customer_kiosk_1_1_page2.html#a0c859724f606de3855c0ae3371af5aea" title="Button click handler for loading the spanish form for Cats adoption." alt="" coords="301,72,521,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="240,91,285,91,285,96,240,96"/>
+<area shape="rect" id="Node000004" href="$class_n_h_s_customer_kiosk_1_1_page2.html#aabc86bf0c7081cc1f2ee491801407072" title="Button click handler for loading the spanish form for Dogs adoption." alt="" coords="299,139,522,181"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="184,105,302,132,300,137,183,110"/>
+</map>

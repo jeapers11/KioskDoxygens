@@ -1,0 +1,9 @@
+<map id="NHSCustomerKiosk.Page1.HandleThankYouPage" name="NHSCustomerKiosk.Page1.HandleThankYouPage">
+<area shape="rect" id="Node000001" title="Handles the &quot;Thank You&quot; page, shows a message box, and clears the navigation history." alt="" coords="850,5,1077,48"/>
+<area shape="rect" id="Node000002" href="$class_n_h_s_customer_kiosk_1_1_page1.html#aeb2a751da788fe35fce838c4da23caa5" title="Handles the FrameLoadEnd event to check if the current URL is valid or if the user has navigated to a..." alt="" coords="557,5,802,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="834,29,803,29,803,24,834,24"/>
+<area shape="rect" id="Node000003" href="$class_n_h_s_customer_kiosk_1_1_page1.html#abb33a03e3bec79806b8b4e2686bb0d8c" title="Initializes the Chromium Web Browser and sets up event handlers for page load and key events." alt="" coords="276,5,509,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="541,29,510,29,510,24,541,24"/>
+<area shape="rect" id="Node000004" href="$class_n_h_s_customer_kiosk_1_1_page1.html#a230abee7e6ee824f7f19c04d4b3a8cc1" title="Initializes the page and sets up the browser for form interactions." alt="" coords="5,13,228,40"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="260,29,228,29,228,24,260,24"/>
+</map>

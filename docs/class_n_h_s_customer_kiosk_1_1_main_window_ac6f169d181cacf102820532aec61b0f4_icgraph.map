@@ -1,0 +1,10 @@
+<map id="NHSCustomerKiosk.MainWindow.InactivityTimer_Tick" name="NHSCustomerKiosk.MainWindow.InactivityTimer_Tick">
+<area shape="rect" id="Node000001" title="Event handler for the inactivity timer. It hides the browser, stops the session, and shows a timeout ..." alt="" coords="816,5,1039,48"/>
+<area shape="rect" id="Node000002" href="$class_n_h_s_customer_kiosk_1_1_main_window.html#ad2474bcb194b15f44c81f3cc3e615b4b" title="Initializes inactivity and warning timers." alt="" coords="276,5,498,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="800,26,768,25,546,25,499,26,498,21,546,20,768,20,800,21"/>
+<area shape="rect" id="Node000004" href="$class_n_h_s_customer_kiosk_1_1_main_window.html#a018c281a53c309a9c9097cebd69dbfaf" title="Helper for the warning timer. Displays a message box warning the user about the session timeout." alt="" coords="546,35,768,77"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="801,43,769,47,768,41,800,38"/>
+<area shape="rect" id="Node000003" href="$class_n_h_s_customer_kiosk_1_1_main_window.html#ab3e594e30b48030b8fc7808d89c5e0bc" title="Initializes the main window and sets up event handlers for user activity and inactivity timers." alt="" coords="5,5,228,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="260,29,228,29,228,24,260,24"/>
+<area shape="poly" id="edge4_Node000004_Node000002" title=" " alt="" coords="530,45,498,41,499,36,531,40"/>
+</map>

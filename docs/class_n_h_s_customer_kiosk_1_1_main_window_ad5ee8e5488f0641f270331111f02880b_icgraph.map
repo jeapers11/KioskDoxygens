@@ -1,0 +1,34 @@
+<map id="NHSCustomerKiosk.MainWindow.ResetInactivityTimers" name="NHSCustomerKiosk.MainWindow.ResetInactivityTimers">
+<area shape="rect" id="Node000001" title="Resets the inactivity and warning timers." alt="" coords="816,272,1039,315"/>
+<area shape="rect" id="Node000002" href="$class_n_h_s_customer_kiosk_1_1_main_window.html#a6ca75a74548b218be39c41e0cbdf5e92" title="Navigates to the English adoption page." alt="" coords="546,72,768,115"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="900,261,844,194,807,159,767,129,745,118,747,113,770,124,811,155,848,190,904,257"/>
+<area shape="rect" id="Node000004" href="$class_n_h_s_customer_kiosk_1_1_main_window.html#af0a7cd6786cc67abe6e734753b62d794" title="Loads the English surrender form.." alt="" coords="546,139,768,181"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="883,265,829,229,767,196,739,184,741,179,769,191,832,225,886,261"/>
+<area shape="rect" id="Node000005" href="$class_n_h_s_customer_kiosk_1_1_main_window.html#aaadf898500d8c1a3f0715b996acc5681" title="Returns to the main screen." alt="" coords="546,5,768,48"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="909,259,887,214,856,161,815,108,767,62,748,51,750,46,770,58,819,104,860,158,892,211,914,257"/>
+<area shape="rect" id="Node000008" href="$class_n_h_s_customer_kiosk_1_1_main_window.html#aca4afc2506ecd22c2b6c668f785b7b77" title="Resets inactivity timers due to key press." alt="" coords="546,205,768,248"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="823,270,746,251,747,246,824,265"/>
+<area shape="rect" id="Node000009" href="$class_n_h_s_customer_kiosk_1_1_main_window.html#aad8ca5c120ee6a46d5b5e25e3a3c884e" title="Resets inactivity timers due to mouse movement." alt="" coords="546,272,768,315"/>
+<area shape="poly" id="edge9_Node000001_Node000009" title=" " alt="" coords="801,296,769,296,769,291,801,291"/>
+<area shape="rect" id="Node000010" href="$class_n_h_s_customer_kiosk_1_1_main_window.html#a8a478a24c9c01830c19904ea32890091" title="Navigates to the Spanish adoption page." alt="" coords="546,339,768,381"/>
+<area shape="poly" id="edge10_Node000001_Node000010" title=" " alt="" coords="824,322,747,341,746,335,823,316"/>
+<area shape="rect" id="Node000011" href="$class_n_h_s_customer_kiosk_1_1_main_window.html#a21d8aebd822897f1fd727973438bd44e" title="Loads the Spanish surrender form." alt="" coords="546,405,768,448"/>
+<area shape="poly" id="edge12_Node000001_Node000011" title=" " alt="" coords="886,326,832,362,769,396,741,407,739,402,767,391,829,357,883,322"/>
+<area shape="rect" id="Node000012" href="$class_n_h_s_customer_kiosk_1_1_main_window.html#a39d43db65464ff8954f71fa7388305b0" title="Resets inactivity timers due to user activity." alt="" coords="276,456,498,499"/>
+<area shape="poly" id="edge14_Node000001_Node000012" title=" " alt="" coords="908,329,884,363,852,400,814,435,769,462,702,485,632,496,562,499,498,496,499,491,562,494,631,491,701,480,767,458,810,431,848,396,880,360,903,326"/>
+<area shape="rect" id="Node000013" href="$class_n_h_s_customer_kiosk_1_1_main_window.html#a018c281a53c309a9c9097cebd69dbfaf" title="Helper for the warning timer. Displays a message box warning the user about the session timeout." alt="" coords="546,523,768,565"/>
+<area shape="poly" id="edge16_Node000001_Node000013" title=" " alt="" coords="911,330,887,370,855,417,816,465,770,506,738,524,735,520,767,502,812,461,851,414,883,367,906,327"/>
+<area shape="rect" id="Node000003" href="$class_n_h_s_customer_kiosk_1_1_main_window.html#a7d3aeb1bbadbb5853d3d6bc3ad2f05c4" title=" " alt="" coords="276,239,498,281"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="558,124,547,129,506,155,468,185,410,240,406,236,465,181,503,151,545,124,556,119"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="566,189,547,196,437,241,435,236,545,191,565,184"/>
+<area shape="rect" id="Node000006" href="$class_n_h_s_customer_kiosk_1_1_main_window.html#a589033a2a6bd32a070cbc701bd118846" title="Initializes the ChromiumWebBrowser control by setting up event handlers and ensuring only allowed URL..." alt="" coords="276,89,498,132"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="569,56,547,63,456,91,455,86,545,57,568,50"/>
+<area shape="rect" id="Node000007" href="$class_n_h_s_customer_kiosk_1_1_main_window.html#ab3e594e30b48030b8fc7808d89c5e0bc" title="Initializes the main window and sets up event handlers for user activity and inactivity timers." alt="" coords="5,456,228,499"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="354,145,316,184,278,228,232,291,191,356,132,457,127,454,186,353,228,288,274,225,312,180,350,141"/>
+<area shape="poly" id="edge11_Node000010_Node000003" title=" " alt="" coords="565,336,545,329,435,284,437,279,547,324,566,331"/>
+<area shape="poly" id="edge13_Node000011_Node000003" title=" " alt="" coords="556,401,545,396,503,369,465,339,406,284,410,280,468,335,506,365,547,391,558,396"/>
+<area shape="poly" id="edge15_Node000012_Node000007" title=" " alt="" coords="260,480,228,480,228,475,260,475"/>
+<area shape="rect" id="Node000014" href="$class_n_h_s_customer_kiosk_1_1_main_window.html#ad2474bcb194b15f44c81f3cc3e615b4b" title="Initializes inactivity and warning timers." alt="" coords="276,523,498,565"/>
+<area shape="poly" id="edge17_Node000013_Node000014" title=" " alt="" coords="530,547,498,547,498,541,530,541"/>
+<area shape="poly" id="edge18_Node000014_Node000007" title=" " alt="" coords="282,521,205,502,207,497,283,516"/>
+</map>

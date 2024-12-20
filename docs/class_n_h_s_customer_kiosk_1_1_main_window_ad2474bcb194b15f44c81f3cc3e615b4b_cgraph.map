@@ -1,0 +1,10 @@
+<map id="NHSCustomerKiosk.MainWindow.InitializeInactivityTimers" name="NHSCustomerKiosk.MainWindow.InitializeInactivityTimers">
+<area shape="rect" id="Node000001" title="Initializes inactivity and warning timers." alt="" coords="5,35,228,77"/>
+<area shape="rect" id="Node000002" href="$class_n_h_s_customer_kiosk_1_1_main_window.html#ac6f169d181cacf102820532aec61b0f4" title="Event handler for the inactivity timer. It hides the browser, stops the session, and shows a timeout ..." alt="" coords="546,5,768,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="228,47,530,31,531,36,228,53"/>
+<area shape="rect" id="Node000003" href="$class_n_h_s_customer_kiosk_1_1_main_window.html#a018c281a53c309a9c9097cebd69dbfaf" title="Helper for the warning timer. Displays a message box warning the user about the session timeout." alt="" coords="276,64,498,107"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="229,65,261,69,260,74,228,71"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="488,61,540,49,541,54,489,66"/>
+<area shape="rect" id="Node000004" href="$class_n_h_s_customer_kiosk_1_1_main_window.html#ad5ee8e5488f0641f270331111f02880b" title="Resets the inactivity and warning timers." alt="" coords="546,72,768,115"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="499,86,531,87,531,92,499,91"/>
+</map>

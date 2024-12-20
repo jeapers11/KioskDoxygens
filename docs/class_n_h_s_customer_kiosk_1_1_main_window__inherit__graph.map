@@ -1,0 +1,11 @@
+<map id="NHSCustomerKiosk.MainWindow" name="NHSCustomerKiosk.MainWindow">
+<area shape="rect" id="Node000001" title="The MainWindow class represents the main window of the NHSCustomerKiosk application...." alt="" coords="79,96,298,123"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,13,74,40"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="77,45,167,93,164,98,75,50"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="97,13,280,40"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="183,56,185,96,179,96,178,56"/>
+<area shape="poly" id="edge4_Node000001_Node000003" title=" " alt="" coords="200,56,198,96,193,96,195,56"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="304,5,484,48"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="320,56,215,98,213,93,318,52"/>
+<area shape="poly" id="edge5_Node000001_Node000004" title=" " alt="" coords="336,57,229,98,227,93,334,52"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="NHSCustomerKiosk.MainWindow.EnglishAdoption_Click" name="NHSCustomerKiosk.MainWindow.EnglishAdoption_Click">
+<area shape="rect" id="Node000001" title="Navigates to the English adoption page." alt="" coords="5,5,228,48"/>
+<area shape="rect" id="Node000002" href="$class_n_h_s_customer_kiosk_1_1_main_window.html#ad5ee8e5488f0641f270331111f02880b" title="Resets the inactivity and warning timers." alt="" coords="276,5,498,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="228,24,260,24,260,29,228,29"/>
+</map>

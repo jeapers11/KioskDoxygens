@@ -1,0 +1,5 @@
+<map id="NHSCustomerKiosk.Page1.DogsButton_Click" name="NHSCustomerKiosk.Page1.DogsButton_Click">
+<area shape="rect" id="Node000001" title="Button click handler for loading the english form for Dogs adoption." alt="" coords="288,5,504,48"/>
+<area shape="rect" id="Node000002" href="$class_n_h_s_customer_kiosk_1_1_page1.html#a863d4fb758a880c8bb9165f4dee627e7" title=" " alt="" coords="5,13,240,40"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="272,29,240,29,240,24,272,24"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="NHSCustomerKiosk.Properties.Settings" name="NHSCustomerKiosk.Properties.Settings">
+<area shape="rect" id="Node000001" title=" " alt="" coords="588,5,796,48"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,21,191,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="206,20,240,16,332,11,424,10,588,16,588,22,424,16,332,16,240,21,206,25"/>
+<area shape="rect" id="Node000003" href="$class_n_h_s_customer_kiosk_1_1_properties_1_1_settings.html" title=" " alt="" coords="240,71,447,113"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="207,62,240,68,239,74,206,67"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="462,67,587,44,588,49,463,72"/>
+<area shape="poly" id="edge4_Node000003_Node000003" title=" " alt="" coords="321,53,329,47,344,44,357,46,366,52,370,61,369,70,364,70,365,62,362,56,355,51,344,49,331,51,324,57"/>
+</map>

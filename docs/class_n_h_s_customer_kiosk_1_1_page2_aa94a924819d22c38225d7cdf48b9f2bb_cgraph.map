@@ -1,0 +1,17 @@
+<map id="NHSCustomerKiosk.Page2.Page2" name="NHSCustomerKiosk.Page2.Page2">
+<area shape="rect" id="Node000001" title="Initializes the page and sets up the browser for form interactions." alt="" coords="5,147,228,173"/>
+<area shape="rect" id="Node000002" href="$class_n_h_s_customer_kiosk_1_1_page2.html#ad26b2a19c5159e8d9f1d11c51d76dee0" title="Initializes the Chromium Web Browser and sets up event handlers for page load and key events." alt="" coords="276,105,509,148"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="228,144,260,140,261,145,228,149"/>
+<area shape="rect" id="Node000008" href="$class_n_h_s_customer_kiosk_1_1_page2.html#a75e78ef035d5e29a3c68d1e2a0120db1" title="InitializeComponent." alt="" coords="276,172,509,215"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="228,171,261,175,260,180,228,176"/>
+<area shape="rect" id="Node000003" href="$class_n_h_s_customer_kiosk_1_1_page2.html#adb54889bda5f37f61d81ea738ef1a01a" title="Handles the FrameLoadEnd event to check if the current URL is valid or if the user has navigated to a..." alt="" coords="557,5,802,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="442,102,556,57,578,50,580,55,558,63,444,107"/>
+<area shape="rect" id="Node000005" href="$class_n_h_s_customer_kiosk_1_1_page2.html#a58d08428122f7a25afabe435a8b4b9e1" title="Handles the FrameLoadStart event to manipulate the browser&#39;s history state." alt="" coords="557,72,802,115"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="509,110,541,107,542,112,510,116"/>
+<area shape="rect" id="Node000006" href="$class_n_h_s_customer_kiosk_1_1_page2.html#a041cf27c8a05d63eb6f2eb9c69081b15" title="Handles the LoadingStateChanged event to restrict navigation to unauthorized links." alt="" coords="557,139,802,181"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="510,138,542,141,541,147,509,143"/>
+<area shape="rect" id="Node000007" href="$class_n_h_s_customer_kiosk_1_1_page2.html#aba30766585adf83c35fbca1b8e4e3c3c" title="disables the back button functionality in the browser." alt="" coords="557,205,802,248"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="482,146,510,158,534,175,558,191,573,197,570,202,556,196,531,179,508,162,480,151"/>
+<area shape="rect" id="Node000004" href="$class_n_h_s_customer_kiosk_1_1_page2.html#a310d1ced45bccb9f243c0ca13bd2a703" title="Handles the &quot;Thank You&quot; page, shows a message box, and clears the navigation history." alt="" coords="850,5,1077,48"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="803,24,835,24,835,29,803,29"/>
+</map>

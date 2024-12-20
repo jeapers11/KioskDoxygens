@@ -1,0 +1,7 @@
+<map id="NHSCustomerKiosk.MainWindow.InitializeBrowser" name="NHSCustomerKiosk.MainWindow.InitializeBrowser">
+<area shape="rect" id="Node000001" title="Initializes the ChromiumWebBrowser control by setting up event handlers and ensuring only allowed URL..." alt="" coords="5,5,228,48"/>
+<area shape="rect" id="Node000002" href="$class_n_h_s_customer_kiosk_1_1_main_window.html#aaadf898500d8c1a3f0715b996acc5681" title="Returns to the main screen." alt="" coords="276,5,498,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="228,24,260,24,260,29,228,29"/>
+<area shape="rect" id="Node000003" href="$class_n_h_s_customer_kiosk_1_1_main_window.html#ad5ee8e5488f0641f270331111f02880b" title="Resets the inactivity and warning timers." alt="" coords="546,5,768,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="499,24,531,24,531,29,499,29"/>
+</map>

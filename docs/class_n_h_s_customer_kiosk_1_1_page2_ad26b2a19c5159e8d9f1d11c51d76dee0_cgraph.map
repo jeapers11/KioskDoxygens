@@ -1,0 +1,13 @@
+<map id="NHSCustomerKiosk.Page2.InitializeBrowser" name="NHSCustomerKiosk.Page2.InitializeBrowser">
+<area shape="rect" id="Node000001" title="Initializes the Chromium Web Browser and sets up event handlers for page load and key events." alt="" coords="5,105,239,148"/>
+<area shape="rect" id="Node000002" href="$class_n_h_s_customer_kiosk_1_1_page2.html#adb54889bda5f37f61d81ea738ef1a01a" title="Handles the FrameLoadEnd event to check if the current URL is valid or if the user has navigated to a..." alt="" coords="287,5,532,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="172,102,286,57,308,50,310,55,288,63,174,107"/>
+<area shape="rect" id="Node000004" href="$class_n_h_s_customer_kiosk_1_1_page2.html#a58d08428122f7a25afabe435a8b4b9e1" title="Handles the FrameLoadStart event to manipulate the browser&#39;s history state." alt="" coords="287,72,532,115"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="239,110,271,107,271,112,239,116"/>
+<area shape="rect" id="Node000005" href="$class_n_h_s_customer_kiosk_1_1_page2.html#a041cf27c8a05d63eb6f2eb9c69081b15" title="Handles the LoadingStateChanged event to restrict navigation to unauthorized links." alt="" coords="287,139,532,181"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="239,138,271,141,271,147,239,143"/>
+<area shape="rect" id="Node000006" href="$class_n_h_s_customer_kiosk_1_1_page2.html#aba30766585adf83c35fbca1b8e4e3c3c" title="disables the back button functionality in the browser." alt="" coords="287,205,532,248"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="174,146,288,191,310,198,308,203,286,196,172,151"/>
+<area shape="rect" id="Node000003" href="$class_n_h_s_customer_kiosk_1_1_page2.html#a310d1ced45bccb9f243c0ca13bd2a703" title="Handles the &quot;Thank You&quot; page, shows a message box, and clears the navigation history." alt="" coords="580,5,806,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="532,24,565,24,565,29,532,29"/>
+</map>

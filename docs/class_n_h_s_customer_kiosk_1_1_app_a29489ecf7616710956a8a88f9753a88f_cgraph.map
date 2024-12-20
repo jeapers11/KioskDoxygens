@@ -1,0 +1,5 @@
+<map id="NHSCustomerKiosk.App.Main" name="NHSCustomerKiosk.App.Main">
+<area shape="rect" id="Node000001" title="Application Entry Point." alt="" coords="5,13,205,40"/>
+<area shape="rect" id="Node000002" href="$class_n_h_s_customer_kiosk_1_1_app.html#a27728d4ffeba556c8c95e70ebaf4bc7f" title="InitializeComponent." alt="" coords="253,5,472,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="205,24,237,24,237,29,205,29"/>
+</map>
